@@ -53,4 +53,4 @@ elastic Ip is same and does not change after stopping the instance
 Elastic public id remains same.
 ![restart](/Images/after_restart.jpg)
 
-Since because we allocated elastic public id to public instance it remains same so no breaking will occur.
+Since because we allocated elastic public id to public instance it remains same so user can now stop and start instance whenever it needed.
