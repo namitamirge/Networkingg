@@ -11,3 +11,6 @@ Below are the steps with screenshots of every step to change ec2 instance dynami
 
 ![tag](/Images/add%20tag.jpg)
 
+##### Step4: Select t3.micro and vockey key value pair
+![t3](/Images/t3.jpg)
+ 
