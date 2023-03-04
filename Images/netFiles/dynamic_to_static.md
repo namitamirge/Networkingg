@@ -34,9 +34,23 @@ Select the EIP you just created by selecting the checkbox. Now attach this perma
 
 ![associate](/Images/associate.jpg)
 
-#### step
+#### step5
 Leave the resource type as Instance, and select test instance from the Choose an Instance drop down menu. Under Private IP address, select the empty box. The Private IP associated with that instance is selected. Click the Associate button.
 
 ![choseinstance](/Images/choseinstance.jpg)
 
 Now note down the elastic public ip and private ip
+
+![image](/Images/image1.jpg)
+
+#### Step 6 Now goto instace tab and stop instance and check public ip
+![stop](/Images/stopafterallocate.jpg)
+
+elastic Ip is same and does not change after stopping the instance
+
+#### Step 7- Now start the instance and check EIP public id
+
+Elastic public id remains same.
+![restart](/Images/after_restart.jpg)
+
+Since because we allocated elastic public id to public instance it remains same so no breaking will occur.
