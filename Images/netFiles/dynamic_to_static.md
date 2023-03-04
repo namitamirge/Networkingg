@@ -33,3 +33,10 @@ you can see the same private id but public is blank since the instance is stoppe
 Select the EIP you just created by selecting the checkbox. Now attach this permanent, public IP address to the dynamic instance by navigating to the top right and navigating to Actions and Associate Elastic IP address.
 
 ![associate](/Images/associate.jpg)
+
+#### step
+Leave the resource type as Instance, and select test instance from the Choose an Instance drop down menu. Under Private IP address, select the empty box. The Private IP associated with that instance is selected. Click the Associate button.
+
+![choseinstance](/Images/choseinstance.jpg)
+
+Now note down the elastic public ip and private ip
