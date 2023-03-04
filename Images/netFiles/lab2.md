@@ -34,3 +34,9 @@ Under Assign a security group, select the Select an existing security group radi
 
 Navigate to the bottom of the window and hit Launch.
 
+#### Step 8- After getting message "instance successfully launched" bottom right click on view all instances. 
+
+![view](/Images/view.jpg)
+#### Step 9-Your public instance successfully created.
+
+
