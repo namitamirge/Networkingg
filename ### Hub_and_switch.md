@@ -18,6 +18,8 @@ A switch aids in the management of data flow across a network.
 A switch can be used to physically connect devices in a computer network.
 Switch can send data to any device in either half-duplex or full-duplex mode.
 
+![swiches](/Images/switch.jpg)
+
 
 
 ##### Hub
@@ -72,3 +74,5 @@ Let’s go through key differences between switch and hub:
 11.The switch is an intelligent device as it sends messages to selected destinations, whereas a hub sends messages to all ports.
 
 12.There is only one collision domain in the hub, but different ports have their own collision domain in a switch.
+
+![hub](/Images/hub.jpg)
